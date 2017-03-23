@@ -1,0 +1,9 @@
+ini adalh aplikasi node js , express js , mongodb
+
+untuk gunakan cukup di cmd ketikan 
+  npm install 
+trus untuk running 
+  node app.js
+  atau nodemon app
+
+tp terlebih dahulu jalankan mongodb nya
